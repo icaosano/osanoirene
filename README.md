@@ -30,6 +30,9 @@ semantic-html-form/
 - *Validation*: Included HTML5 input types like `email`, `tel`, `date`, and `required` attributes for basic validation  
 - *No CSS*: Focused entirely on semantic and functional structure without visual styling
 
+
+file:///Users/mauriceosano/Documents/programming/Form.html  
+
 📚 How to Use  
 1. Open `index.html` in any modern web browser  
 2. Fill in the form fields  

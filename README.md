@@ -31,7 +31,7 @@ semantic-html-form/
 - *No CSS*: Focused entirely on semantic and functional structure without visual styling
 
 
-file:///Users/mauriceosano/Documents/programming/Form.html  
+
 
 📚 How to Use  
 1. Open `index.html` in any modern web browser  
